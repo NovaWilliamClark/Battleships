@@ -18,7 +18,9 @@ Menu Navigation:
 ## Showcase
 
 No Debug:
+
 ![NoDebug](./Docs/BattleshipDemo.PNG)
 
 Debug Mode:
+
 ![NoDebug](./Docs/BattleshipDemoDebug.PNG)
