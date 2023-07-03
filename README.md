@@ -7,7 +7,7 @@ On a player's turn, they are presented with a public version of their board and 
 On each player's turn, they will select a board coordinate to fire at. The player that eliminates all of the enemies ships wins.
 
 ## Controls
-Menu Navigation:
+### Menu Navigation:
 - Up & Down Arrow Keys
 - Enter for Menu Select
 
