@@ -12,8 +12,8 @@ On each player's turn, they will select a board coordinate to fire at. The playe
 - Enter for Menu Select
 
 ### Text Input:
-- Coordinate input should be [Row][Column]. Ex. A2
-- Orientation input should be either a 'v'/'V', or 'h'/'H'
+- Coordinate input should be `[Row][Column]`. Ex. A2
+- Orientation input should be either a `'v'/'V'`, or `'h'/'H'`
 
 ## Showcase
 
